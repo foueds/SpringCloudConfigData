@@ -1,2 +1,6 @@
 ---
 lucky-word: Fayda
+---
+word-config:
+  preamble: My name is
+  luckyWord: Fayda
